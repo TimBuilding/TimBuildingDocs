@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="6034710e">
+        <description>Created after removal of "Welcome to TimBuilding" from Instance Name</description>
+        <accepts>Welcome-to-TimBuilding.html</accepts>
+    </rule>
+    <rule id="2d07880">
+        <description>Created after removal of "Tutorial" from Instance Name</description>
+        <accepts>Tutorial.html</accepts>
+    </rule>
+    <rule id="116f0397">
+        <description>Created after removal of "Workflow" from Instance Name</description>
+        <accepts>Graphite.html</accepts>
+    </rule>
+    <rule id="68654f51">
+        <description>Created after removal of "Tutorial" from Instance Name</description>
+        <accepts>Tutorial22.html</accepts>
+    </rule>
+</rules>
